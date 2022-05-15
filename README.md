@@ -9,6 +9,4 @@ A couple of beginner projects here, listed from easiest to hardest :)
 - NOTE: `random_madlibs.py` and `sample_madlibs` are madlibs that I created if you just want to play around with them
 - `web_app`: build your own web app using flask! (this would be more intermediate, but give it a try if you're feeling ambitious!!)
 
-# Data Structures
 
-Theses contain different Data Structure and Algorithm as well.
